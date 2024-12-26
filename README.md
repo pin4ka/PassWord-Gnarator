@@ -24,4 +24,7 @@ A React-based application that generates secure, random passwords. The passwords
 
 **Client:** React
 
+## URL
 
+[PassWord Generator app](https://pass-word-gnarator.vercel.app/)
+    
